@@ -1,6 +1,3 @@
-
-
-
 module.exports = {
     Muestra:()=>{
         console.log('en module exports con funcion flecha');
