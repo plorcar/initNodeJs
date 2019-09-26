@@ -1,0 +1,23 @@
+{
+  "name": "initnodejs",
+  "version": "1.0.0",
+  "description": "inicio npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plorcar/initNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plorcar/initNodeJs/issues"
+  },
+  "homepage": "https://github.com/plorcar/initNodeJs#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "yargs": "^14.0.0"
+  }
+}
