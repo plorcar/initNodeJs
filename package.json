@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/plorcar/initNodeJs#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "yargs": "^14.0.0"
   }
 }
